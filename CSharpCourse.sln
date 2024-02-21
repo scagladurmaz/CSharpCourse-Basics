@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{9F0B7A97-A6B0-405D-972F-79765DD6B584}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{9F0B7A97-A6B0-405D-972F-79765DD6B584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{EC0AF028-1706-4DE1-A7E6-6B879CA27EBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{EC0AF028-1706-4DE1-A7E6-6B879CA27EBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{906F4B19-2B6E-43F3-A4AF-8C23C677C4A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{906F4B19-2B6E-43F3-A4AF-8C23C677C4A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{E22472D9-D205-47AA-9D4A-3337A12DBA7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{E22472D9-D205-47AA-9D4A-3337A12DBA7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{61F0058D-4284-40F6-8A09-668338DB8441}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{61F0058D-4284-40F6-8A09-668338DB8441}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{DB00F87C-608F-4DA9-9F9C-7AD92099E34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{B704661C-10A2-4CEC-9F84-C655A73CA74F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{61F0058D-4284-40F6-8A09-668338DB8441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61F0058D-4284-40F6-8A09-668338DB8441}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61F0058D-4284-40F6-8A09-668338DB8441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB00F87C-608F-4DA9-9F9C-7AD92099E34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB00F87C-608F-4DA9-9F9C-7AD92099E34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB00F87C-608F-4DA9-9F9C-7AD92099E34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB00F87C-608F-4DA9-9F9C-7AD92099E34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B704661C-10A2-4CEC-9F84-C655A73CA74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B704661C-10A2-4CEC-9F84-C655A73CA74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B704661C-10A2-4CEC-9F84-C655A73CA74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B704661C-10A2-4CEC-9F84-C655A73CA74F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
